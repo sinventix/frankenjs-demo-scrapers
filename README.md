@@ -51,8 +51,5 @@ node demo-scraper-raw-request-variant.js
 
 [https://www.youtube.com/watch?v=zYpkjgZAMhg](https://www.youtube.com/watch?v=zYpkjgZAMhg)
 
----
-
-**Mehr Infos**
-
-Wenn du möchtest, dass wir euch beim Thema Web Scraping unterstützen, dann findest du mehr Infos unter [scrapingexperts.de](https://scrapingexperts.de).
+## Mehr Infos zum Vortrag
+[scrapingexperts.de/web-scraping-fur-entwickler-praktische-einblicke-und-best-practices-vom-frankenjs-talk](https://scrapingexperts.de/web-scraping-fur-entwickler-praktische-einblicke-und-best-practices-vom-frankenjs-talk/)
