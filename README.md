@@ -47,9 +47,9 @@ node demo-scraper-raw-request-variant.js
 - **Vorteile**: Sehr schnell und effizient.
 - **Nachteile**: Eingeschränkt bei komplexen Seiten, die Inhalte durch JavaScript generieren.
 
-## Link zur Präsentation
+## Video zum vollständigen Vortrag
 
-Der Link zur Präsentation wird hier ergänzt.
+[https://www.youtube.com/watch?v=zYpkjgZAMhg](https://www.youtube.com/watch?v=zYpkjgZAMhg)
 
 ---
 
